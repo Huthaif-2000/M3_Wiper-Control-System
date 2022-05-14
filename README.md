@@ -14,3 +14,5 @@
 [![Build CI -Linux](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/build%20linux.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/build%20linux.yml)
 
 [![CI](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/main.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/main.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/Git%20inspector.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/Git%20inspector.yml)
