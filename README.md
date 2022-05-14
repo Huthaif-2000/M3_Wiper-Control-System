@@ -10,3 +10,5 @@
 [![Analysis](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/Analysis.yml)
 
 [![Build CI - Windows](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/build%20windows.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/build%20windows.yml)
+
+[![Build CI -Linux](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/build%20linux.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/build%20linux.yml)
