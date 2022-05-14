@@ -20,3 +20,5 @@
 [![cppcheck-action](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/cpp%20check.yml)
 
 [![Unit testing](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/unit%20testing.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/unit%20testing.yml)
+
+[![Valgrind](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Huthaif-2000/M3_Wiper-control-system/actions/workflows/valgrind.yml)
